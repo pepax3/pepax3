@@ -11,6 +11,7 @@
   - Python
   - Shell script
   - Powershell
+  - C
 
 - ⭐️ I'm currently learning
 	- C
