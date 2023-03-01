@@ -14,5 +14,4 @@
   - C
 
 - ⭐️ I'm currently learning
-	- C
     - Studying for OSCP and CCNA
