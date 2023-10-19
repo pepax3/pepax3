@@ -29,7 +29,7 @@ I'm a passionate 🌐 Cybersecurity Enthusiast 🛡️ hailing from beautiful Se
 
 If you find my cybersecurity content helpful and would like to support my work, you can buy me a coffee! Your support keeps me motivated to create more valuable content.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pepax3)
+<a href='https://ko-fi.com/C1C4P7FQI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
 Thanks for stopping by, and happy hacking! 🔐🌐
